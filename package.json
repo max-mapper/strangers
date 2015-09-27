@@ -1,0 +1,15 @@
+{
+  "name": "strangers",
+  "version": "1.0.0",
+  "description": "talk to strangers on the interweb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "max ogden",
+  "license": "ISC",
+  "dependencies": {
+    "electron-prebuilt": "^0.33.3",
+    "mustache": "^2.1.3"
+  }
+}
